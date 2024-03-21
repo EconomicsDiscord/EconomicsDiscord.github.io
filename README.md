@@ -6,4 +6,6 @@ Website in progress by Economics Discord staff.
 
 site: https://economicsdiscord.github.io
 
+site: https://economicsdiscord.com
+
 Join our Discord: https://discord.gg/economics
